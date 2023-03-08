@@ -408,8 +408,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultMap: {fileID: 1619010785}
   toolPreviewMap: {fileID: 1782316066}
-  forbidPlacingWithMaps:
-  - {fileID: 1503704031}
+  forbidPlacingWithMaps: []
 --- !u!4 &548164034
 Transform:
   m_ObjectHideFlags: 0
@@ -2646,7 +2645,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -803.65393, y: 352}
+  m_AnchoredPosition: {x: -803.65393, y: 457}
   m_SizeDelta: {x: 312.6922, y: 161.1185}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1000664249
@@ -2682,7 +2681,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -479.99997, y: -270}
+  m_AnchoredPosition: {x: -479.99997, y: -330}
   m_SizeDelta: {x: 960, y: 540}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1442815144
@@ -2831,7 +2830,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1503704028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -25.77, y: 4.31, z: 0}
+  m_LocalPosition: {x: -33.57, y: 2.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 545511029}
